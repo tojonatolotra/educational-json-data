@@ -1,0 +1,689 @@
+{
+  "video_id": "184d18b0-6cbd-4ec0-a7a0-67a18cc358de",
+  "lesson": {
+    "id": "0591a806-0b69-40a2-9efd-76244335a3eb",
+    "title": "Mr Dinosaur is Lost",
+    "summary": "A Peppa Pig episode where George loses his favorite toy Mr Dinosaur, and Peppa acts as a detective to find it.",
+    "grammar_concepts": [
+      {
+        "name": "Present simple tense",
+        "explanation": "Used for facts, habits, and general truths.",
+        "examples_from_transcript": [
+          "George loves Mr Dinosaur.",
+          "Mr Dinosaur is lost."
+        ]
+      },
+      {
+        "name": "Present continuous tense",
+        "explanation": "Used for actions happening now or around now.",
+        "examples_from_transcript": [
+          "Peppa and Daddy Pig are playing draughts.",
+          "George's favourite game is throwing Mr Dinosaur up in the air."
+        ]
+      },
+      {
+        "name": "Past simple tense",
+        "explanation": "Used for completed actions in the past.",
+        "examples_from_transcript": [
+          "I wonder if this time you threw Mr Dinosaur just a bit too high.",
+          "I saw him first!"
+        ]
+      },
+      {
+        "name": "Question forms",
+        "explanation": "Used to ask questions.",
+        "examples_from_transcript": [
+          "Was that you, George?",
+          "George, what's the matter?"
+        ]
+      },
+      {
+        "name": "Possessive 's",
+        "explanation": "Used to show ownership.",
+        "examples_from_transcript": [
+          "George's favourite toy is Mr Dinosaur.",
+          "George's favourite game is throwing Mr Dinosaur up in the air."
+        ]
+      },
+      {
+        "name": "Imperatives",
+        "explanation": "Used to give commands or instructions.",
+        "examples_from_transcript": [
+          "Don't worry, George.",
+          "Good night, George."
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "dinosaur",
+        "definition": "A prehistoric reptile.",
+        "example_sentence": "George's favourite toy is Mr Dinosaur."
+      },
+      {
+        "word": "detective",
+        "definition": "A person who investigates and solves crimes or finds missing things.",
+        "example_sentence": "A detective is a very important person who is good at finding things."
+      },
+      {
+        "word": "lost",
+        "definition": "Unable to be found.",
+        "example_sentence": "Mr Dinosaur is lost."
+      },
+      {
+        "word": "favourite",
+        "definition": "Preferred over others.",
+        "example_sentence": "George's favourite toy is Mr Dinosaur."
+      },
+      {
+        "word": "share",
+        "definition": "To use or have something together with others.",
+        "example_sentence": "At bath time, George shares his bath with Mr Dinosaur."
+      },
+      {
+        "word": "tuck",
+        "definition": "To place or cover snugly.",
+        "example_sentence": "When George goes to bed, Mr Dinosaur is tucked up with him."
+      },
+      {
+        "word": "draughts",
+        "definition": "A board game also known as checkers.",
+        "example_sentence": "Peppa and Daddy Pig are playing draughts."
+      },
+      {
+        "word": "scare",
+        "definition": "To cause fear.",
+        "example_sentence": "Sometimes George likes to scare Peppa with Mr Dinosaur."
+      },
+      {
+        "word": "throw",
+        "definition": "To propel through the air.",
+        "example_sentence": "George's favourite game is throwing Mr Dinosaur up in the air."
+      },
+      {
+        "word": "catch",
+        "definition": "To capture or seize after a throw.",
+        "example_sentence": "And catching him when he falls back down."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "5f4d4a8a-a805-45c4-8156-b49ee5e83104",
+      "exercise_type": "multiple_choice",
+      "question": "What does the word 'detective' mean in the story?",
+      "explanation": "In the story, Daddy Pig explains that a detective is a very important person who is good at finding things.",
+      "options": [
+        {
+          "text": "a person who finds lost things",
+          "is_correct": true
+        },
+        {
+          "text": "a person who plays games",
+          "is_correct": false
+        },
+        {
+          "text": "a person who cooks dinner",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "6a784605-322c-4077-9439-02930e7137ea",
+      "exercise_type": "fill_in_the_blank",
+      "question": "George's favourite toy is ___.",
+      "explanation": "The story says George's favourite toy is Mr Dinosaur.",
+      "options": [
+        {
+          "text": "Mr Dinosaur",
+          "is_correct": true
+        },
+        {
+          "text": "Peppa",
+          "is_correct": false
+        },
+        {
+          "text": "Daddy Pig",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "09157a24-e59f-4956-b120-c5f0debc8b3a",
+      "exercise_type": "true_or_false",
+      "question": "Mr Dinosaur was found in the garden.",
+      "explanation": "Mr Dinosaur was actually found in a tree, not in the garden.",
+      "options": [
+        {
+          "text": "True",
+          "is_correct": false
+        },
+        {
+          "text": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "e312c93e-699f-4dc1-af3b-8881cae950da",
+      "exercise_type": "multiple_choice",
+      "question": "Who said 'I win, Daddy!'?",
+      "explanation": "Peppa said 'I win, Daddy!' while playing draughts with Daddy Pig.",
+      "options": [
+        {
+          "text": "Peppa",
+          "is_correct": true
+        },
+        {
+          "text": "George",
+          "is_correct": false
+        },
+        {
+          "text": "Mummy Pig",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "9818cc63-1981-4524-9150-499df9ea9bd2",
+      "exercise_type": "fill_in_the_blank",
+      "question": "At bath time, George shares his bath with ___.",
+      "explanation": "The story says: 'At bath time, George shares his bath with Mr Dinosaur.'",
+      "options": [
+        {
+          "text": "Mr Dinosaur",
+          "is_correct": true
+        },
+        {
+          "text": "Peppa",
+          "is_correct": false
+        },
+        {
+          "text": "Mummy Pig",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "source_text": {
+    "full_text": "I'm Peppa Pig. This is my little brother George. This is Mummy Pig. And this is Daddy Pig. Peppa Pig. Mr Dinosaur is lost. George's favourite toy is Mr Dinosaur. Dinosaur. George loves Mr Dinosaur. Grrrrr! Sometimes George likes to scare Peppa with Mr Dinosaur. Grrrrr! Eee! Too scary! At supper time, Mr Dinosaur sits next to George. I beg your pardon. Was that you, George? Or was it Mr Dinosaur? Dinosaur. At bath time, George shares his bath with Mr Dinosaur. Good night, Peppa. Good night, Mummy. Good night, George. And good night, Mr Dinosaur. When George goes to bed, Mr Dinosaur is tucked up with him. George's favourite game is throwing Mr Dinosaur up in the air. Whee! And catching him when he falls back down. Whee! Whee! Peppa and Daddy Pig are playing draughts. I win, Daddy! Oh! Well done, Peppa. George! George, what's the matter? I'm sore. George, have you lost Mr Dinosaur? George has lost Mr Dinosaur. Don't worry, George. We'll find Mr Dinosaur. It's a job for a detective. Daddy, what is a dee-tech-tive? A detective is a very important person who is good at finding things. Me, me! I'm good at finding things. Alright. Peppa is the detective. George, I'm the detective. I will help you find Mr Dinosaur. Maybe the detective should ask George some simple questions. George, where's Mr Dinosaur? George does not know where Mr Dinosaur is. The detective could try and guess where Mr Dinosaur might be. I know, I know where he is. George always has Mr Dinosaur with him in the bath. So Mr Dinosaur is in the bath. Mr Dinosaur is not in the bath. Oh. I know! I know where Mr Dinosaur is. George always has Mr Dinosaur in his bed at night. See, that's where he is. Mr Dinosaur is not in George's bed. Oh. Maybe we should try the garden. Yes, the garden! I was going to say that. Where is Mr Dinosaur? Mr Dinosaur is very hard to find. Oh, Mr Dinosaur isn't anywhere. George, you do love to throw Mr Dinosaur in the air. I wonder if this time you threw Mr Dinosaur just a bit too high. There he is! There he is! I saw him first! Well done, Peppa. You really are a very good detective. I'm so. grown! George is so happy to have Mr Dinosaur back again. Maybe it isn't a good idea to play with dinosaurs near trees. Dinosaurs.",
+    "language": "en",
+    "segments": [
+      {
+        "index": 0,
+        "start_time": 0.0,
+        "end_time": 1.2,
+        "text": "I'm Peppa Pig.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 1,
+        "start_time": 1.2,
+        "end_time": 3.6,
+        "text": "This is my little brother George.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 2,
+        "start_time": 3.6,
+        "end_time": 5.2,
+        "text": "This is Mummy Pig.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 3,
+        "start_time": 5.2,
+        "end_time": 7.2,
+        "text": "And this is Daddy Pig.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 4,
+        "start_time": 7.2,
+        "end_time": 8.0,
+        "text": "Peppa Pig.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 5,
+        "start_time": 8.0,
+        "end_time": 9.6,
+        "text": "Mr Dinosaur is lost.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 6,
+        "start_time": 9.6,
+        "end_time": 12.0,
+        "text": "George's favourite toy is Mr Dinosaur.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 7,
+        "start_time": 12.0,
+        "end_time": 12.4,
+        "text": "Dinosaur.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 8,
+        "start_time": 12.4,
+        "end_time": 14.0,
+        "text": "George loves Mr Dinosaur.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 9,
+        "start_time": 14.0,
+        "end_time": 18.0,
+        "text": "Grrrrr! Sometimes George likes to scare Peppa with Mr Dinosaur.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 10,
+        "start_time": 18.0,
+        "end_time": 23.2,
+        "text": "Grrrrr! Eee! Too scary! At supper time, Mr Dinosaur sits next to George.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 11,
+        "start_time": 23.2,
+        "end_time": 24.8,
+        "text": "I beg your pardon.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 12,
+        "start_time": 24.8,
+        "end_time": 28.8,
+        "text": "Was that you, George? Or was it Mr Dinosaur? Dinosaur.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 13,
+        "start_time": 28.8,
+        "end_time": 32.8,
+        "text": "At bath time, George shares his bath with Mr Dinosaur.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 14,
+        "start_time": 32.8,
+        "end_time": 34.0,
+        "text": "Good night, Peppa.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 15,
+        "start_time": 34.0,
+        "end_time": 35.2,
+        "text": "Good night, Mummy.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 16,
+        "start_time": 35.2,
+        "end_time": 36.4,
+        "text": "Good night, George.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 17,
+        "start_time": 36.4,
+        "end_time": 38.4,
+        "text": "And good night, Mr Dinosaur.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 18,
+        "start_time": 38.4,
+        "end_time": 43.2,
+        "text": "When George goes to bed, Mr Dinosaur is tucked up with him.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 19,
+        "start_time": 43.2,
+        "end_time": 47.6,
+        "text": "George's favourite game is throwing Mr Dinosaur up in the air.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 20,
+        "start_time": 47.6,
+        "end_time": 51.2,
+        "text": "Whee! And catching him when he falls back down.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 21,
+        "start_time": 51.2,
+        "end_time": 54.8,
+        "text": "Whee! Whee! Peppa and Daddy Pig are playing draughts.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 22,
+        "start_time": 54.8,
+        "end_time": 57.6,
+        "text": "I win, Daddy! Oh! Well done, Peppa.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 23,
+        "start_time": 57.6,
+        "end_time": 60.4,
+        "text": "George! George, what's the matter? I'm sore.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 24,
+        "start_time": 60.4,
+        "end_time": 64.8,
+        "text": "George, have you lost Mr Dinosaur? George has lost Mr Dinosaur.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 25,
+        "start_time": 64.8,
+        "end_time": 66.0,
+        "text": "Don't worry, George.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 26,
+        "start_time": 66.0,
+        "end_time": 67.6,
+        "text": "We'll find Mr Dinosaur.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 27,
+        "start_time": 67.6,
+        "end_time": 70.0,
+        "text": "It's a job for a detective.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 28,
+        "start_time": 70.0,
+        "end_time": 77.2,
+        "text": "Daddy, what is a dee-tech-tive? A detective is a very important person who is good at finding things.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 29,
+        "start_time": 77.2,
+        "end_time": 80.0,
+        "text": "Me, me! I'm good at finding things.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 30,
+        "start_time": 80.0,
+        "end_time": 80.4,
+        "text": "Alright.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 31,
+        "start_time": 80.4,
+        "end_time": 82.0,
+        "text": "Peppa is the detective.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 32,
+        "start_time": 82.0,
+        "end_time": 83.6,
+        "text": "George, I'm the detective.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 33,
+        "start_time": 83.6,
+        "end_time": 86.4,
+        "text": "I will help you find Mr Dinosaur.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 34,
+        "start_time": 86.4,
+        "end_time": 90.0,
+        "text": "Maybe the detective should ask George some simple questions.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 35,
+        "start_time": 90.0,
+        "end_time": 94.8,
+        "text": "George, where's Mr Dinosaur? George does not know where Mr Dinosaur is.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 36,
+        "start_time": 94.8,
+        "end_time": 99.2,
+        "text": "The detective could try and guess where Mr Dinosaur might be.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 37,
+        "start_time": 99.2,
+        "end_time": 102.0,
+        "text": "I know, I know where he is.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 38,
+        "start_time": 102.0,
+        "end_time": 106.0,
+        "text": "George always has Mr Dinosaur with him in the bath.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 39,
+        "start_time": 106.0,
+        "end_time": 108.8,
+        "text": "So Mr Dinosaur is in the bath.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 40,
+        "start_time": 108.8,
+        "end_time": 111.6,
+        "text": "Mr Dinosaur is not in the bath.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 41,
+        "start_time": 111.6,
+        "end_time": 112.0,
+        "text": "Oh.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 42,
+        "start_time": 112.0,
+        "end_time": 115.2,
+        "text": "I know! I know where Mr Dinosaur is.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 43,
+        "start_time": 115.2,
+        "end_time": 119.2,
+        "text": "George always has Mr Dinosaur in his bed at night.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 44,
+        "start_time": 119.2,
+        "end_time": 121.2,
+        "text": "See, that's where he is.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 45,
+        "start_time": 121.2,
+        "end_time": 124.0,
+        "text": "Mr Dinosaur is not in George's bed.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 46,
+        "start_time": 124.0,
+        "end_time": 124.4,
+        "text": "Oh.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 47,
+        "start_time": 124.4,
+        "end_time": 126.8,
+        "text": "Maybe we should try the garden.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 48,
+        "start_time": 126.8,
+        "end_time": 130.4,
+        "text": "Yes, the garden! I was going to say that.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 49,
+        "start_time": 130.4,
+        "end_time": 134.8,
+        "text": "Where is Mr Dinosaur? Mr Dinosaur is very hard to find.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 50,
+        "start_time": 134.8,
+        "end_time": 136.8,
+        "text": "Oh, Mr Dinosaur isn't anywhere.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 51,
+        "start_time": 136.8,
+        "end_time": 141.2,
+        "text": "George, you do love to throw Mr Dinosaur in the air.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 52,
+        "start_time": 141.2,
+        "end_time": 146.8,
+        "text": "I wonder if this time you threw Mr Dinosaur just a bit too high.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 53,
+        "start_time": 146.8,
+        "end_time": 152.0,
+        "text": "There he is! There he is! I saw him first! Well done, Peppa.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 54,
+        "start_time": 152.0,
+        "end_time": 154.8,
+        "text": "You really are a very good detective.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 55,
+        "start_time": 154.8,
+        "end_time": 155.6,
+        "text": "I'm so.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 56,
+        "start_time": 155.6,
+        "end_time": 160.0,
+        "text": "grown! George is so happy to have Mr Dinosaur back again.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 57,
+        "start_time": 160.0,
+        "end_time": 164.8,
+        "text": "Maybe it isn't a good idea to play with dinosaurs near trees.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 58,
+        "start_time": 164.8,
+        "end_time": 165.2,
+        "text": "Dinosaurs.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      }
+    ],
+    "dialogue": [],
+    "narration": []
+  },
+  "cache_key": "b4c23034fe60409da9e16653e430f68ed3912fe56cb3223eb375e22801bac2c0"
+}

@@ -1,0 +1,703 @@
+{
+  "video_id": "3cc13a5f-6a3a-4bae-9103-5c88a64bbb9e",
+  "lesson": {
+    "id": "bd33db1a-c06e-4314-a6c7-bd102f7e8597",
+    "title": "Peppa Pig: Muddy Puddles",
+    "summary": "Peppa and George play in muddy puddles after the rain, learning to wear boots and clean up; the whole family joins in.",
+    "grammar_concepts": [
+      {
+        "name": "present continuous",
+        "explanation": "Used for actions happening now or around the current time.",
+        "examples_from_transcript": [
+          "It is raining today.",
+          "Peppa and George are having a lot of fun.",
+          "Peppa and George are wearing their boots.",
+          "Mummy and Daddy are wearing their boots."
+        ]
+      },
+      {
+        "name": "imperatives",
+        "explanation": "Used for commands, requests, or suggestions.",
+        "examples_from_transcript": [
+          "Run along, you two.",
+          "Look, George.",
+          "Stop, George.",
+          "Come on, George.",
+          "Let's find some more puddles.",
+          "Let's go show Daddy.",
+          "Let me think.",
+          "Let's clean up quickly before Mummy sees the mess.",
+          "Guess what we've been doing?"
+        ]
+      },
+      {
+        "name": "modals of obligation (must)",
+        "explanation": "Used to express strong necessity or obligation.",
+        "examples_from_transcript": [
+          "Peppa, if you jump in muddy puddles, you must wear your boots.",
+          "George, if you jump in muddy puddles, you must wear your boots.",
+          "I must check if it's safe for you."
+        ]
+      },
+      {
+        "name": "present perfect continuous",
+        "explanation": "Used for actions that started in the past and continue up to the present, often emphasizing duration or repeated actions.",
+        "examples_from_transcript": [
+          "Guess what we've been doing?",
+          "Have you been watching television?",
+          "You've been jumping in muddy puddles.",
+          "We've been jumping in muddy puddles."
+        ]
+      },
+      {
+        "name": "conditional sentences (if...then)",
+        "explanation": "Used to express a condition and its result. Typically with 'if' clause in present simple and main clause with a modal.",
+        "examples_from_transcript": [
+          "Peppa, if you jump in muddy puddles, you must wear your boots.",
+          "George, if you jump in muddy puddles, you must wear your boots."
+        ]
+      },
+      {
+        "name": "gerunds as objects",
+        "explanation": "Verbs ending in -ing used as nouns after certain verbs like 'love'.",
+        "examples_from_transcript": [
+          "Peppa loves jumping in muddy puddles.",
+          "Peppa and George love jumping in muddy puddles.",
+          "Peppa loves jumping up and down in muddy puddles.",
+          "Everyone loves jumping up and down in muddy puddles."
+        ]
+      },
+      {
+        "name": "infinitive after 'like to'",
+        "explanation": "Use of the infinitive (to + base verb) after the verb 'like' to express preference.",
+        "examples_from_transcript": [
+          "George likes to jump in muddy puddles too.",
+          "Peppa likes to look after her little brother, George."
+        ]
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "muddy puddles",
+        "definition": "Puddles filled with mud, often found after rain.",
+        "example_sentence": "Peppa loves jumping in muddy puddles."
+      },
+      {
+        "word": "boots",
+        "definition": "Strong footwear that covers the foot and ankle, worn to protect from mud or water.",
+        "example_sentence": "If you jump in muddy puddles, you must wear your boots."
+      },
+      {
+        "word": "safe",
+        "definition": "Free from danger or harm.",
+        "example_sentence": "I must check if it's safe for you."
+      },
+      {
+        "word": "mess",
+        "definition": "A dirty or untidy state, especially one caused by something being spilled or scattered.",
+        "example_sentence": "And look at the mess you're in."
+      },
+      {
+        "word": "clean up",
+        "definition": "To make a place or person clean and tidy.",
+        "example_sentence": "Let's clean up quickly before Mummy sees the mess."
+      },
+      {
+        "word": "check",
+        "definition": "To examine something to ensure it is correct, safe, or satisfactory.",
+        "example_sentence": "I must check if it's safe for you."
+      },
+      {
+        "word": "look after",
+        "definition": "To take care of or be responsible for someone.",
+        "example_sentence": "Peppa likes to look after her little brother, George."
+      },
+      {
+        "word": "guess",
+        "definition": "To estimate or suppose something without enough information to be certain.",
+        "example_sentence": "Daddy, Daddy, guess what we've been doing?"
+      },
+      {
+        "word": "goodness me",
+        "definition": "An exclamation expressing surprise, shock, or amazement.",
+        "example_sentence": "Goodness me."
+      },
+      {
+        "word": "run along",
+        "definition": "A phrase used to tell someone to leave or go away, often in a friendly manner.",
+        "example_sentence": "Run along, you two."
+      }
+    ]
+  },
+  "exercises": [
+    {
+      "id": "e5c221a1-2284-4aa2-b991-aa5205307c95",
+      "exercise_type": "multiple_choice",
+      "question": "What does 'muddy puddles' mean?",
+      "explanation": "Muddy puddles are puddles filled with mud, often found after rain.",
+      "options": [
+        {
+          "text": "Puddles filled with mud",
+          "is_correct": true
+        },
+        {
+          "text": "Clean water puddles",
+          "is_correct": false
+        },
+        {
+          "text": "Puddles with boots",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "9eed6cf7-7091-4f56-bf10-166326135fa2",
+      "exercise_type": "fill_in_the_blank",
+      "question": "If you jump in muddy puddles, you ______ wear your boots.",
+      "explanation": "The modal 'must' expresses strong obligation, as shown in the lesson.",
+      "options": [
+        {
+          "text": "must",
+          "is_correct": true
+        },
+        {
+          "text": "can",
+          "is_correct": false
+        },
+        {
+          "text": "should",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "4d09c4df-fc7f-406a-8437-672771413db3",
+      "exercise_type": "true_or_false",
+      "question": "Peppa and George are not allowed to play outside when it stops raining.",
+      "explanation": "After it stops raining, Daddy says 'Run along, you two' so they are allowed to play outside.",
+      "options": [
+        {
+          "text": "True",
+          "is_correct": false
+        },
+        {
+          "text": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "c323e72a-c855-4eec-9fe4-ef2c19c8491c",
+      "exercise_type": "multiple_choice",
+      "question": "Which grammar concept is used in the sentence 'Peppa loves jumping in muddy puddles'?",
+      "explanation": "The verb 'loves' is followed by a gerund ('jumping'), which is a gerund used as an object.",
+      "options": [
+        {
+          "text": "Present continuous",
+          "is_correct": false
+        },
+        {
+          "text": "Gerunds as objects",
+          "is_correct": true
+        },
+        {
+          "text": "Modals of obligation",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "f5966bc5-9827-472a-b533-f60e27d85626",
+      "exercise_type": "fill_in_the_blank",
+      "question": "Daddy says 'It's only ______.'",
+      "explanation": "Daddy says 'It's only mud' to minimize the mess, as seen in the story.",
+      "options": [
+        {
+          "text": "mud",
+          "is_correct": true
+        },
+        {
+          "text": "mess",
+          "is_correct": false
+        },
+        {
+          "text": "water",
+          "is_correct": false
+        }
+      ]
+    }
+  ],
+  "source_text": {
+    "full_text": "I'm Peppa Pig. This is my little brother George. This is Mummy Pig. And this is Daddy Pig. Peppa Pig. Muddypuddles! I'm going to play with you. I'm going to play with you. It is raining today, so Peppa and George cannot play outside. Daddy, it stopped raining. Can we go out to play? Ha-ha! All right. Run along, you two. Pfft! HE CHUCKLES Peppa loves jumping in muddy puddles. I love muddy puddles. Peppa, if you jump in muddy puddles, you must wear your boots. Sorry, Mummy. George likes to jump in muddy puddles too. George, if you jump in muddy puddles, you must wear your boots. Peppa likes to look after her little brother, George. George, let's find some more puddles. Peppa and George are having a lot of fun. Peppa has found a little puddle. George has found a big puddle. Look, George. There's a really big puddle. George wants to jump into the big puddle first. Stop, George. I must check if it's safe for you. Good. It is safe for you. Sorry, George. It's only mud. Peppa and George love jumping in muddy puddles. Come on, George. Let's go show Daddy. Goodness me. Daddy, Daddy, guess what we've been doing? Let me think. Have you been watching television? No, no, Daddy. Have you just had a bath? No, no. I know. You've been jumping in muddy puddles. Yes, yes, Daddy. We've been jumping in muddy puddles. Ho, ho. And look at the mess you're in. Ooh. Oh, well. It's only mud. Let's clean up quickly before Mummy sees the mess. Daddy, when we've cleaned up, will you and Mummy come and play too? Yes, we can all play in the garden. Peppa and George are wearing their boots. Mummy and Daddy are wearing their boots. Peppa loves jumping up and down in muddy puddles. Everyone loves jumping up and down in muddy puddles. Oh, Daddy Pig, look at the mess you're in. It's only mud. Peppa Pig. Peppa Pig. Peppa Pig.",
+    "language": "en",
+    "segments": [
+      {
+        "index": 0,
+        "start_time": 0.0,
+        "end_time": 1.2,
+        "text": "I'm Peppa Pig.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 1,
+        "start_time": 1.2,
+        "end_time": 3.6,
+        "text": "This is my little brother George.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 2,
+        "start_time": 3.6,
+        "end_time": 5.2,
+        "text": "This is Mummy Pig.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 3,
+        "start_time": 5.2,
+        "end_time": 7.2,
+        "text": "And this is Daddy Pig.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 4,
+        "start_time": 7.2,
+        "end_time": 8.0,
+        "text": "Peppa Pig.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 5,
+        "start_time": 8.0,
+        "end_time": 10.8,
+        "text": "Muddypuddles! I'm going to play with you.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 6,
+        "start_time": 10.8,
+        "end_time": 13.2,
+        "text": "I'm going to play with you.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 7,
+        "start_time": 13.2,
+        "end_time": 17.6,
+        "text": "It is raining today, so Peppa and George cannot play outside.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 8,
+        "start_time": 17.6,
+        "end_time": 19.2,
+        "text": "Daddy, it stopped raining.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 9,
+        "start_time": 19.2,
+        "end_time": 22.8,
+        "text": "Can we go out to play? Ha-ha! All right.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 10,
+        "start_time": 22.8,
+        "end_time": 24.4,
+        "text": "Run along, you two.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 11,
+        "start_time": 24.4,
+        "end_time": 28.0,
+        "text": "Pfft! HE CHUCKLES Peppa loves jumping in muddy puddles.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 12,
+        "start_time": 28.0,
+        "end_time": 29.6,
+        "text": "I love muddy puddles.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 13,
+        "start_time": 29.6,
+        "end_time": 34.4,
+        "text": "Peppa, if you jump in muddy puddles, you must wear your boots.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 14,
+        "start_time": 34.4,
+        "end_time": 35.2,
+        "text": "Sorry, Mummy.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 15,
+        "start_time": 35.2,
+        "end_time": 38.4,
+        "text": "George likes to jump in muddy puddles too.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 16,
+        "start_time": 38.4,
+        "end_time": 43.2,
+        "text": "George, if you jump in muddy puddles, you must wear your boots.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 17,
+        "start_time": 43.2,
+        "end_time": 46.8,
+        "text": "Peppa likes to look after her little brother, George.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 18,
+        "start_time": 46.8,
+        "end_time": 49.2,
+        "text": "George, let's find some more puddles.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 19,
+        "start_time": 49.2,
+        "end_time": 52.8,
+        "text": "Peppa and George are having a lot of fun.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 20,
+        "start_time": 52.8,
+        "end_time": 55.2,
+        "text": "Peppa has found a little puddle.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 21,
+        "start_time": 55.2,
+        "end_time": 57.6,
+        "text": "George has found a big puddle.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 22,
+        "start_time": 57.6,
+        "end_time": 58.4,
+        "text": "Look, George.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 23,
+        "start_time": 58.4,
+        "end_time": 60.4,
+        "text": "There's a really big puddle.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 24,
+        "start_time": 60.4,
+        "end_time": 64.0,
+        "text": "George wants to jump into the big puddle first.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 25,
+        "start_time": 64.0,
+        "end_time": 64.8,
+        "text": "Stop, George.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 26,
+        "start_time": 64.8,
+        "end_time": 68.0,
+        "text": "I must check if it's safe for you.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 27,
+        "start_time": 68.0,
+        "end_time": 68.4,
+        "text": "Good.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 28,
+        "start_time": 68.4,
+        "end_time": 70.4,
+        "text": "It is safe for you.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 29,
+        "start_time": 70.4,
+        "end_time": 71.2,
+        "text": "Sorry, George.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 30,
+        "start_time": 71.2,
+        "end_time": 72.4,
+        "text": "It's only mud.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 31,
+        "start_time": 72.4,
+        "end_time": 75.6,
+        "text": "Peppa and George love jumping in muddy puddles.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 32,
+        "start_time": 75.6,
+        "end_time": 76.8,
+        "text": "Come on, George.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 33,
+        "start_time": 76.8,
+        "end_time": 78.4,
+        "text": "Let's go show Daddy.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 34,
+        "start_time": 78.4,
+        "end_time": 79.2,
+        "text": "Goodness me.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 35,
+        "start_time": 79.2,
+        "end_time": 83.2,
+        "text": "Daddy, Daddy, guess what we've been doing? Let me think.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 36,
+        "start_time": 83.2,
+        "end_time": 86.4,
+        "text": "Have you been watching television? No, no, Daddy.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 37,
+        "start_time": 86.4,
+        "end_time": 89.6,
+        "text": "Have you just had a bath? No, no.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 38,
+        "start_time": 89.6,
+        "end_time": 90.4,
+        "text": "I know.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 39,
+        "start_time": 90.4,
+        "end_time": 92.8,
+        "text": "You've been jumping in muddy puddles.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 40,
+        "start_time": 92.8,
+        "end_time": 94.0,
+        "text": "Yes, yes, Daddy.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 41,
+        "start_time": 94.0,
+        "end_time": 96.4,
+        "text": "We've been jumping in muddy puddles.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 42,
+        "start_time": 96.4,
+        "end_time": 97.2,
+        "text": "Ho, ho.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 43,
+        "start_time": 97.2,
+        "end_time": 100.0,
+        "text": "And look at the mess you're in.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 44,
+        "start_time": 100.0,
+        "end_time": 100.4,
+        "text": "Ooh.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 45,
+        "start_time": 100.4,
+        "end_time": 101.2,
+        "text": "Oh, well.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 46,
+        "start_time": 101.2,
+        "end_time": 102.4,
+        "text": "It's only mud.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 47,
+        "start_time": 102.4,
+        "end_time": 106.0,
+        "text": "Let's clean up quickly before Mummy sees the mess.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 48,
+        "start_time": 106.0,
+        "end_time": 114.4,
+        "text": "Daddy, when we've cleaned up, will you and Mummy come and play too? Yes, we can all play in the garden.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 49,
+        "start_time": 114.4,
+        "end_time": 117.2,
+        "text": "Peppa and George are wearing their boots.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 50,
+        "start_time": 117.2,
+        "end_time": 120.0,
+        "text": "Mummy and Daddy are wearing their boots.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 51,
+        "start_time": 120.0,
+        "end_time": 123.6,
+        "text": "Peppa loves jumping up and down in muddy puddles.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 52,
+        "start_time": 123.6,
+        "end_time": 127.2,
+        "text": "Everyone loves jumping up and down in muddy puddles.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 53,
+        "start_time": 127.2,
+        "end_time": 130.8,
+        "text": "Oh, Daddy Pig, look at the mess you're in.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 54,
+        "start_time": 130.8,
+        "end_time": 132.0,
+        "text": "It's only mud.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 55,
+        "start_time": 132.0,
+        "end_time": 132.8,
+        "text": "Peppa Pig.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 56,
+        "start_time": 132.8,
+        "end_time": 133.6,
+        "text": "Peppa Pig.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      },
+      {
+        "index": 57,
+        "start_time": 133.6,
+        "end_time": 134.4,
+        "text": "Peppa Pig.",
+        "speaker": null,
+        "speaker_type": "unknown"
+      }
+    ],
+    "dialogue": [],
+    "narration": []
+  },
+  "cache_key": "1c11ddf4fe2b5eb99366869b818a459f212fce9d24228f8dd7bc84b7788e4616"
+}
