@@ -1,180 +1,126 @@
 {
-  "video_id": "3cc13a5f-6a3a-4bae-9103-5c88a64bbb9e",
+  "video_id": "94a54ff1-8a16-4b96-b662-a3fac435562b",
   "lesson": {
-    "id": "bd33db1a-c06e-4314-a6c7-bd102f7e8597",
+    "id": "cd8dd7e7-df40-41d7-b40a-00d378335710",
     "title": "Peppa Pig: Muddy Puddles",
-    "summary": "Peppa and George play in muddy puddles after the rain, learning to wear boots and clean up; the whole family joins in.",
+    "summary": "In this excerpt, Peppa and George learn to wear boots before jumping in muddy puddles after the rain stops. The family cleans up and plays together, emphasizing fun and safety.",
     "grammar_concepts": [
       {
-        "name": "present continuous",
-        "explanation": "Used for actions happening now or around the current time.",
-        "examples_from_transcript": [
-          "It is raining today.",
-          "Peppa and George are having a lot of fun.",
-          "Peppa and George are wearing their boots.",
-          "Mummy and Daddy are wearing their boots."
-        ]
-      },
-      {
-        "name": "imperatives",
-        "explanation": "Used for commands, requests, or suggestions.",
+        "name": "Imperatives",
+        "structure_rules": "Base form of the verb (no subject, often with 'let's' for suggestions)",
+        "context_usage": "To give commands, instructions, or suggestions; commonly used in friendly or parent-child interactions.",
+        "learning_tips": "Imperatives can sound direct; adding 'please' softens them. Note that 'let's' is a contraction of 'let us' and suggests joint action.",
+        "explanation": "Base form of the verb (no subject, often with 'let's' for suggestions)",
         "examples_from_transcript": [
           "Run along, you two.",
-          "Look, George.",
-          "Stop, George.",
-          "Come on, George.",
-          "Let's find some more puddles.",
-          "Let's go show Daddy.",
-          "Let me think.",
-          "Let's clean up quickly before Mummy sees the mess.",
-          "Guess what we've been doing?"
+          "Come on, George."
         ]
       },
       {
-        "name": "modals of obligation (must)",
-        "explanation": "Used to express strong necessity or obligation.",
+        "name": "Present Continuous",
+        "structure_rules": "Subject + am/is/are + verb-ing",
+        "context_usage": "To describe actions happening right now or around the current time; also used for temporary situations and future arrangements.",
+        "learning_tips": "Common mistake: forgetting the auxiliary 'be' or using the base form of the verb. Pronunciation: '-ing' is often reduced to '-in'' in casual speech (e.g., 'jumpin'').",
+        "explanation": "Subject + am/is/are + verb-ing",
         "examples_from_transcript": [
-          "Peppa, if you jump in muddy puddles, you must wear your boots.",
-          "George, if you jump in muddy puddles, you must wear your boots.",
+          "It is raining today.",
+          "Peppa and George are having a lot of fun."
+        ]
+      },
+      {
+        "name": "Modal 'must' for necessity",
+        "structure_rules": "Subject + must + base form of verb (no 'to')",
+        "context_usage": "To express a strong obligation or necessity, often from an external rule or authority.",
+        "learning_tips": "'Must' is stronger than 'have to'; it does not change form for different subjects. Negative: 'must not' (mustn't) meaning prohibition.",
+        "explanation": "Subject + must + base form of verb (no 'to')",
+        "examples_from_transcript": [
+          "You must wear your boots.",
           "I must check if it's safe for you."
-        ]
-      },
-      {
-        "name": "present perfect continuous",
-        "explanation": "Used for actions that started in the past and continue up to the present, often emphasizing duration or repeated actions.",
-        "examples_from_transcript": [
-          "Guess what we've been doing?",
-          "Have you been watching television?",
-          "You've been jumping in muddy puddles.",
-          "We've been jumping in muddy puddles."
-        ]
-      },
-      {
-        "name": "conditional sentences (if...then)",
-        "explanation": "Used to express a condition and its result. Typically with 'if' clause in present simple and main clause with a modal.",
-        "examples_from_transcript": [
-          "Peppa, if you jump in muddy puddles, you must wear your boots.",
-          "George, if you jump in muddy puddles, you must wear your boots."
-        ]
-      },
-      {
-        "name": "gerunds as objects",
-        "explanation": "Verbs ending in -ing used as nouns after certain verbs like 'love'.",
-        "examples_from_transcript": [
-          "Peppa loves jumping in muddy puddles.",
-          "Peppa and George love jumping in muddy puddles.",
-          "Peppa loves jumping up and down in muddy puddles.",
-          "Everyone loves jumping up and down in muddy puddles."
-        ]
-      },
-      {
-        "name": "infinitive after 'like to'",
-        "explanation": "Use of the infinitive (to + base verb) after the verb 'like' to express preference.",
-        "examples_from_transcript": [
-          "George likes to jump in muddy puddles too.",
-          "Peppa likes to look after her little brother, George."
         ]
       }
     ],
     "vocabulary": [
       {
-        "word": "muddy puddles",
-        "definition": "Puddles filled with mud, often found after rain.",
+        "word": "puddle",
+        "definition": "A small pool of liquid, especially rainwater, on the ground.",
         "example_sentence": "Peppa loves jumping in muddy puddles."
       },
       {
         "word": "boots",
-        "definition": "Strong footwear that covers the foot and ankle, worn to protect from mud or water.",
-        "example_sentence": "If you jump in muddy puddles, you must wear your boots."
+        "definition": "Strong shoes that cover the foot and ankle, often worn for outdoor activities.",
+        "example_sentence": "You must wear your boots."
       },
       {
-        "word": "safe",
-        "definition": "Free from danger or harm.",
-        "example_sentence": "I must check if it's safe for you."
+        "word": "muddy",
+        "definition": "Covered with or consisting of mud.",
+        "example_sentence": "Peppa loves jumping in muddy puddles."
       },
       {
         "word": "mess",
-        "definition": "A dirty or untidy state, especially one caused by something being spilled or scattered.",
+        "definition": "A dirty or untidy state or condition.",
         "example_sentence": "And look at the mess you're in."
       },
       {
-        "word": "clean up",
-        "definition": "To make a place or person clean and tidy.",
-        "example_sentence": "Let's clean up quickly before Mummy sees the mess."
-      },
-      {
-        "word": "check",
-        "definition": "To examine something to ensure it is correct, safe, or satisfactory.",
-        "example_sentence": "I must check if it's safe for you."
-      },
-      {
-        "word": "look after",
-        "definition": "To take care of or be responsible for someone.",
-        "example_sentence": "Peppa likes to look after her little brother, George."
-      },
-      {
-        "word": "guess",
-        "definition": "To estimate or suppose something without enough information to be certain.",
-        "example_sentence": "Daddy, Daddy, guess what we've been doing?"
-      },
-      {
-        "word": "goodness me",
-        "definition": "An exclamation expressing surprise, shock, or amazement.",
-        "example_sentence": "Goodness me."
-      },
-      {
-        "word": "run along",
-        "definition": "A phrase used to tell someone to leave or go away, often in a friendly manner.",
-        "example_sentence": "Run along, you two."
+        "word": "safe",
+        "definition": "Not likely to cause harm; free from danger or risk.",
+        "example_sentence": "It is safe for you."
       }
     ]
   },
   "exercises": [
     {
-      "id": "e5c221a1-2284-4aa2-b991-aa5205307c95",
+      "id": "c3db5f85-8a6b-440d-9869-6ace0036d24f",
       "exercise_type": "multiple_choice",
-      "question": "What does 'muddy puddles' mean?",
-      "explanation": "Muddy puddles are puddles filled with mud, often found after rain.",
+      "question": "What does 'puddle' mean?",
+      "explanation": "A puddle is a small pool of liquid, often rainwater.",
       "options": [
         {
-          "text": "Puddles filled with mud",
+          "text": "A small pool of water",
           "is_correct": true
         },
         {
-          "text": "Clean water puddles",
+          "text": "A type of shoe",
           "is_correct": false
         },
         {
-          "text": "Puddles with boots",
+          "text": "A type of animal",
+          "is_correct": false
+        },
+        {
+          "text": "A toy",
           "is_correct": false
         }
       ]
     },
     {
-      "id": "9eed6cf7-7091-4f56-bf10-166326135fa2",
+      "id": "9f6fcbd2-78ca-4c1f-8e4f-90715425a018",
       "exercise_type": "fill_in_the_blank",
-      "question": "If you jump in muddy puddles, you ______ wear your boots.",
-      "explanation": "The modal 'must' expresses strong obligation, as shown in the lesson.",
+      "question": "Peppa says: 'If you jump in muddy puddles, you must wear your ___ .'",
+      "explanation": "Boots are strong shoes for outdoor activities, like jumping in puddles.",
       "options": [
         {
-          "text": "must",
+          "text": "boots",
           "is_correct": true
         },
         {
-          "text": "can",
+          "text": "hat",
           "is_correct": false
         },
         {
-          "text": "should",
+          "text": "coat",
+          "is_correct": false
+        },
+        {
+          "text": "gloves",
           "is_correct": false
         }
       ]
     },
     {
-      "id": "4d09c4df-fc7f-406a-8437-672771413db3",
+      "id": "38128101-8a36-42d7-be5b-25d1e78ab996",
       "exercise_type": "true_or_false",
-      "question": "Peppa and George are not allowed to play outside when it stops raining.",
-      "explanation": "After it stops raining, Daddy says 'Run along, you two' so they are allowed to play outside.",
+      "question": "The word 'muddy' means clean and dry.",
+      "explanation": "Muddy means covered with mud, which is wet and dirty, not clean and dry.",
       "options": [
         {
           "text": "True",
@@ -187,41 +133,153 @@
       ]
     },
     {
-      "id": "c323e72a-c855-4eec-9fe4-ef2c19c8491c",
+      "id": "c75b2acd-7909-45c0-9ead-2aba01bfe92d",
       "exercise_type": "multiple_choice",
-      "question": "Which grammar concept is used in the sentence 'Peppa loves jumping in muddy puddles'?",
-      "explanation": "The verb 'loves' is followed by a gerund ('jumping'), which is a gerund used as an object.",
+      "question": "What does 'mess' mean in the story?",
+      "explanation": "Mess refers to a dirty or untidy condition, like the mud on their clothes.",
       "options": [
         {
-          "text": "Present continuous",
-          "is_correct": false
-        },
-        {
-          "text": "Gerunds as objects",
+          "text": "A dirty state",
           "is_correct": true
         },
         {
-          "text": "Modals of obligation",
+          "text": "A delicious meal",
+          "is_correct": false
+        },
+        {
+          "text": "A happy moment",
+          "is_correct": false
+        },
+        {
+          "text": "A new toy",
           "is_correct": false
         }
       ]
     },
     {
-      "id": "f5966bc5-9827-472a-b533-f60e27d85626",
+      "id": "2199bb7f-e478-4aca-922a-827c9f0f07a8",
       "exercise_type": "fill_in_the_blank",
-      "question": "Daddy says 'It's only ______.'",
-      "explanation": "Daddy says 'It's only mud' to minimize the mess, as seen in the story.",
+      "question": "Daddy says: '___ along, you two.' (What word completes the imperative?)",
+      "explanation": "Imperatives use the base form of the verb. 'Run along' is a command telling them to go.",
       "options": [
         {
-          "text": "mud",
+          "text": "Run",
           "is_correct": true
         },
         {
-          "text": "mess",
+          "text": "Running",
           "is_correct": false
         },
         {
-          "text": "water",
+          "text": "Runs",
+          "is_correct": false
+        },
+        {
+          "text": "To run",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "b75b3b0d-4dee-46ed-8295-142d13f9ed8a",
+      "exercise_type": "multiple_choice",
+      "question": "Which sentence uses the present continuous correctly?",
+      "explanation": "Present continuous is formed with subject + am/is/are + verb-ing. 'Peppa is jumping' describes an ongoing action.",
+      "options": [
+        {
+          "text": "Peppa is jumping in puddles.",
+          "is_correct": true
+        },
+        {
+          "text": "Peppa jumps in puddles.",
+          "is_correct": false
+        },
+        {
+          "text": "Peppa jump in puddles.",
+          "is_correct": false
+        },
+        {
+          "text": "Peppa jumped in puddles.",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "ee92546d-3f01-4835-873f-1410af77ee7d",
+      "exercise_type": "true_or_false",
+      "question": "In the story, Mummy says 'You must wear your boots.' This means it is optional.",
+      "explanation": "'Must' expresses strong necessity or obligation, so it is not optional; it is required.",
+      "options": [
+        {
+          "text": "True",
+          "is_correct": false
+        },
+        {
+          "text": "False",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "id": "eb95176a-fed6-441e-b6f0-3de8e7148a27",
+      "exercise_type": "true_or_false",
+      "question": "At the beginning of the story, it is raining.",
+      "explanation": "The narrator says 'It is raining today', so Peppa and George cannot play outside initially.",
+      "options": [
+        {
+          "text": "True",
+          "is_correct": true
+        },
+        {
+          "text": "False",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "9ec8f097-b038-4817-9bb0-09cfa0aa21e5",
+      "exercise_type": "multiple_choice",
+      "question": "Who checks if the big puddle is safe for George?",
+      "explanation": "Peppa says 'I must check if it's safe for you' before allowing George to jump into the big puddle.",
+      "options": [
+        {
+          "text": "Peppa",
+          "is_correct": true
+        },
+        {
+          "text": "George",
+          "is_correct": false
+        },
+        {
+          "text": "Mummy Pig",
+          "is_correct": false
+        },
+        {
+          "text": "Daddy Pig",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "d38f64e5-0dce-4537-9766-851f25263503",
+      "exercise_type": "fill_in_the_blank",
+      "question": "Daddy Pig says: 'Oh, well. ___ only mud.'",
+      "explanation": "Daddy uses the contraction 'It's' meaning 'It is' to minimize the mess.",
+      "options": [
+        {
+          "text": "It's",
+          "is_correct": true
+        },
+        {
+          "text": "Its",
+          "is_correct": false
+        },
+        {
+          "text": "Its'",
+          "is_correct": false
+        },
+        {
+          "text": "It is",
           "is_correct": false
         }
       ]

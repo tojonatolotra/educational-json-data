@@ -1,205 +1,273 @@
 {
-  "video_id": "184d18b0-6cbd-4ec0-a7a0-67a18cc358de",
+  "video_id": "25c99da8-42ee-4e97-969d-64a5e31b9580",
   "lesson": {
-    "id": "0591a806-0b69-40a2-9efd-76244335a3eb",
-    "title": "Mr Dinosaur is Lost",
-    "summary": "A Peppa Pig episode where George loses his favorite toy Mr Dinosaur, and Peppa acts as a detective to find it.",
+    "id": "d633b45b-fa96-4a7a-9ad0-20cb7c49249d",
+    "title": "Lost Toy: Mr Dinosaur",
+    "summary": "In this episode, George loses his favorite toy, Mr Dinosaur, and Peppa becomes a detective to find it.",
     "grammar_concepts": [
       {
-        "name": "Present simple tense",
-        "explanation": "Used for facts, habits, and general truths.",
+        "name": "Present Simple",
+        "structure_rules": "Subject + verb (base form for I/you/we/they, add -s/-es for he/she/it). Negative: subject + do/does + not + base verb. Questions: Do/Does + subject + base verb?",
+        "context_usage": "Used to express facts, habits, routines, and general truths. In the transcript, it describes George's likes and routines.",
+        "learning_tips": "Pay attention to the third person singular -s/-es ending. Pronunciation varies: /s/ after voiceless sounds (likes), /z/ after voiced sounds (loves), /ɪz/ after sibilants (kisses).",
+        "explanation": "Subject + verb (base form for I/you/we/they, add -s/-es for he/she/it). Negative: subject + do/does + not + base verb. Questions: Do/Does + subject + base verb?",
         "examples_from_transcript": [
           "George loves Mr Dinosaur.",
-          "Mr Dinosaur is lost."
+          "Sometimes George likes to scare Peppa with Mr Dinosaur."
         ]
       },
       {
-        "name": "Present continuous tense",
-        "explanation": "Used for actions happening now or around now.",
+        "name": "Wh-Questions",
+        "structure_rules": "Wh-word (what, where, when, why, who, how) + auxiliary verb (be, do, have) + subject + main verb (or complement). For questions with 'to be': Wh-word + be + subject + ...?",
+        "context_usage": "Used to ask for specific information. In the transcript, Peppa asks about the detective and Mr Dinosaur's location.",
+        "learning_tips": "Intonation usually rises at the end of the question. Remember that the auxiliary verb changes for different tenses (e.g., 'is' for present, 'was' for past).",
+        "explanation": "Wh-word (what, where, when, why, who, how) + auxiliary verb (be, do, have) + subject + main verb (or complement). For questions with 'to be': Wh-word + be + subject + ...?",
         "examples_from_transcript": [
-          "Peppa and Daddy Pig are playing draughts.",
-          "George's favourite game is throwing Mr Dinosaur up in the air."
-        ]
-      },
-      {
-        "name": "Past simple tense",
-        "explanation": "Used for completed actions in the past.",
-        "examples_from_transcript": [
-          "I wonder if this time you threw Mr Dinosaur just a bit too high.",
-          "I saw him first!"
-        ]
-      },
-      {
-        "name": "Question forms",
-        "explanation": "Used to ask questions.",
-        "examples_from_transcript": [
-          "Was that you, George?",
-          "George, what's the matter?"
+          "George, where's Mr Dinosaur?",
+          "Daddy, what is a dee-tech-tive?"
         ]
       },
       {
         "name": "Possessive 's",
-        "explanation": "Used to show ownership.",
+        "structure_rules": "Possessor noun + 's + possessed noun (e.g., George's toy). For plural possessors ending in -s, add only an apostrophe (e.g., parents' house).",
+        "context_usage": "Indicates ownership or a close relationship between a person/animal and something. In the transcript, it shows what belongs to George.",
+        "learning_tips": "The pronunciation of 's follows the same rules as plural -s: /s/ after voiceless, /z/ after voiced, /ɪz/ after sibilants. Be careful not to confuse with contractions (e.g., George's vs. George is).",
+        "explanation": "Possessor noun + 's + possessed noun (e.g., George's toy). For plural possessors ending in -s, add only an apostrophe (e.g., parents' house).",
         "examples_from_transcript": [
           "George's favourite toy is Mr Dinosaur.",
           "George's favourite game is throwing Mr Dinosaur up in the air."
-        ]
-      },
-      {
-        "name": "Imperatives",
-        "explanation": "Used to give commands or instructions.",
-        "examples_from_transcript": [
-          "Don't worry, George.",
-          "Good night, George."
         ]
       }
     ],
     "vocabulary": [
       {
         "word": "dinosaur",
-        "definition": "A prehistoric reptile.",
+        "definition": "a prehistoric reptile that lived millions of years ago; in the transcript, it refers to George's toy named Mr Dinosaur.",
         "example_sentence": "George's favourite toy is Mr Dinosaur."
       },
       {
         "word": "detective",
-        "definition": "A person who investigates and solves crimes or finds missing things.",
+        "definition": "a person whose job is to find information or solve mysteries, especially by asking questions and looking for clues.",
         "example_sentence": "A detective is a very important person who is good at finding things."
       },
       {
         "word": "lost",
-        "definition": "Unable to be found.",
-        "example_sentence": "Mr Dinosaur is lost."
-      },
-      {
-        "word": "favourite",
-        "definition": "Preferred over others.",
-        "example_sentence": "George's favourite toy is Mr Dinosaur."
-      },
-      {
-        "word": "share",
-        "definition": "To use or have something together with others.",
-        "example_sentence": "At bath time, George shares his bath with Mr Dinosaur."
-      },
-      {
-        "word": "tuck",
-        "definition": "To place or cover snugly.",
-        "example_sentence": "When George goes to bed, Mr Dinosaur is tucked up with him."
-      },
-      {
-        "word": "draughts",
-        "definition": "A board game also known as checkers.",
-        "example_sentence": "Peppa and Daddy Pig are playing draughts."
+        "definition": "unable to be found; missing.",
+        "example_sentence": "George has lost Mr Dinosaur."
       },
       {
         "word": "scare",
-        "definition": "To cause fear.",
+        "definition": "to frighten or cause fear.",
         "example_sentence": "Sometimes George likes to scare Peppa with Mr Dinosaur."
       },
       {
-        "word": "throw",
-        "definition": "To propel through the air.",
-        "example_sentence": "George's favourite game is throwing Mr Dinosaur up in the air."
-      },
-      {
-        "word": "catch",
-        "definition": "To capture or seize after a throw.",
-        "example_sentence": "And catching him when he falls back down."
+        "word": "tucked",
+        "definition": "placed snugly or securely, often referring to bedding or covering.",
+        "example_sentence": "When George goes to bed, Mr Dinosaur is tucked up with him."
       }
     ]
   },
   "exercises": [
     {
-      "id": "5f4d4a8a-a805-45c4-8156-b49ee5e83104",
+      "id": "780c0098-e488-47df-b611-cda167391c37",
       "exercise_type": "multiple_choice",
-      "question": "What does the word 'detective' mean in the story?",
-      "explanation": "In the story, Daddy Pig explains that a detective is a very important person who is good at finding things.",
+      "question": "What is George's favourite toy?",
+      "explanation": "In the transcript, George's favourite toy is Mr Dinosaur.",
       "options": [
         {
-          "text": "a person who finds lost things",
+          "text": "A dinosaur",
           "is_correct": true
         },
         {
-          "text": "a person who plays games",
+          "text": "A ball",
           "is_correct": false
         },
         {
-          "text": "a person who cooks dinner",
+          "text": "A robot",
+          "is_correct": false
+        },
+        {
+          "text": "A teddy bear",
           "is_correct": false
         }
       ]
     },
     {
-      "id": "6a784605-322c-4077-9439-02930e7137ea",
+      "id": "1cdba944-8568-4575-9182-3ea024c0c3c3",
       "exercise_type": "fill_in_the_blank",
-      "question": "George's favourite toy is ___.",
-      "explanation": "The story says George's favourite toy is Mr Dinosaur.",
+      "question": "Peppa says she is a good ______.",
+      "explanation": "Peppa claims she is good at finding things, and Daddy Pig confirms she is the detective.",
       "options": [
         {
-          "text": "Mr Dinosaur",
+          "text": "detective",
           "is_correct": true
         },
         {
-          "text": "Peppa",
+          "text": "doctor",
           "is_correct": false
         },
         {
-          "text": "Daddy Pig",
+          "text": "teacher",
           "is_correct": false
         }
       ]
     },
     {
-      "id": "09157a24-e59f-4956-b120-c5f0debc8b3a",
+      "id": "de86262b-2350-4d43-94bd-f059a54a377a",
       "exercise_type": "true_or_false",
-      "question": "Mr Dinosaur was found in the garden.",
-      "explanation": "Mr Dinosaur was actually found in a tree, not in the garden.",
+      "question": "Mr Dinosaur was lost in the garden.",
+      "explanation": "Mr Dinosaur was found up in a tree in the garden after being lost.",
       "options": [
         {
           "text": "True",
-          "is_correct": false
+          "is_correct": true
         },
         {
           "text": "False",
-          "is_correct": true
+          "is_correct": false
         }
       ]
     },
     {
-      "id": "e312c93e-699f-4dc1-af3b-8881cae950da",
+      "id": "2941ee3d-8476-4cf6-964b-8edaf80b4c13",
       "exercise_type": "multiple_choice",
-      "question": "Who said 'I win, Daddy!'?",
-      "explanation": "Peppa said 'I win, Daddy!' while playing draughts with Daddy Pig.",
+      "question": "What does George sometimes do with Mr Dinosaur to scare Peppa?",
+      "explanation": "George roars 'Grrrrr!' to scare Peppa with Mr Dinosaur.",
       "options": [
         {
-          "text": "Peppa",
+          "text": "Roar",
           "is_correct": true
         },
         {
-          "text": "George",
+          "text": "Throw it",
           "is_correct": false
         },
         {
-          "text": "Mummy Pig",
+          "text": "Hide it",
+          "is_correct": false
+        },
+        {
+          "text": "Kiss it",
           "is_correct": false
         }
       ]
     },
     {
-      "id": "9818cc63-1981-4524-9150-499df9ea9bd2",
+      "id": "942bf251-7448-429f-a0f7-79b465e82b9d",
       "exercise_type": "fill_in_the_blank",
-      "question": "At bath time, George shares his bath with ___.",
-      "explanation": "The story says: 'At bath time, George shares his bath with Mr Dinosaur.'",
+      "question": "George ______ (love) Mr Dinosaur.",
+      "explanation": "Present simple third person singular adds -s: loves.",
       "options": [
         {
-          "text": "Mr Dinosaur",
+          "text": "loves",
           "is_correct": true
         },
         {
-          "text": "Peppa",
+          "text": "love",
           "is_correct": false
         },
         {
-          "text": "Mummy Pig",
+          "text": "loving",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "fe676aa9-5a07-4783-8565-6890b3796560",
+      "exercise_type": "multiple_choice",
+      "question": "Daddy Pig asks, 'Where ______ Mr Dinosaur?'",
+      "explanation": "Wh-question with 'where' and singular subject 'Mr Dinosaur' uses 'is'.",
+      "options": [
+        {
+          "text": "is",
+          "is_correct": true
+        },
+        {
+          "text": "are",
+          "is_correct": false
+        },
+        {
+          "text": "be",
+          "is_correct": false
+        },
+        {
+          "text": "am",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "6d2f49fb-1068-4c20-8110-b2a21ef516b8",
+      "exercise_type": "true_or_false",
+      "question": "George's favourite toy is Mr Dinosaur.",
+      "explanation": "Possessive 's shows ownership: George's favourite toy.",
+      "options": [
+        {
+          "text": "True",
+          "is_correct": true
+        },
+        {
+          "text": "False",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "645cf669-faa8-4f7c-bb10-a66d2f8cffcc",
+      "exercise_type": "multiple_choice",
+      "question": "Who helps George look for Mr Dinosaur?",
+      "explanation": "Peppa is the detective and Daddy Pig helps; Mummy Pig is not shown helping.",
+      "options": [
+        {
+          "text": "Peppa and Daddy Pig",
+          "is_correct": true
+        },
+        {
+          "text": "Mummy Pig only",
+          "is_correct": false
+        },
+        {
+          "text": "Only Peppa",
+          "is_correct": false
+        },
+        {
+          "text": "No one",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "6761fbd4-becc-437a-971f-a7e138428cc4",
+      "exercise_type": "fill_in_the_blank",
+      "question": "At first, Peppa guesses Mr Dinosaur is in the ______.",
+      "explanation": "Peppa first guesses the bath because George always has Mr Dinosaur in the bath.",
+      "options": [
+        {
+          "text": "bath",
+          "is_correct": true
+        },
+        {
+          "text": "bed",
+          "is_correct": false
+        },
+        {
+          "text": "garden",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "id": "0c7c88cb-7aaa-4e97-abd9-6405aecbe520",
+      "exercise_type": "true_or_false",
+      "question": "George throws Mr Dinosaur up in the air and catches him.",
+      "explanation": "George's favourite game is throwing Mr Dinosaur up and catching him.",
+      "options": [
+        {
+          "text": "True",
+          "is_correct": true
+        },
+        {
+          "text": "False",
           "is_correct": false
         }
       ]
